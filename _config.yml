@@ -1,10 +1,10 @@
-title: Long Haul
+title: Joe píše...
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: pretty
 
 markdown: kramdown
 highlighter: rouge
@@ -12,17 +12,17 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+ # - title:
+ #  url: /index.html
+ #- title: About
+ #  url: /about
+ #- title: Contact
+ #  url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: thejoeejoee
+   twitter: thejoeejoee
+   facebook: kolar.joe
+   email: mail@josefkolar.cz
 
-google_analytics: "UA-58263416-1"
+# google_analytics: "UA-58263416-1"
