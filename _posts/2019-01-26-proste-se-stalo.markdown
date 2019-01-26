@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Prostě se stalo
-date: {}
 excerpt_separator: <!-- MORE -->
 published: true
+tags: erasmus joe
 ---
 
  <p class="intro"><span class="dropcap">T</span>o se jednoho prosincového dne roku 2018 o půl jedné v noci <small><i>(úplně přesně 00:20:46)</i></small> objevilo v nejmenovaném komunikačním kanálu dvou dobrých kamarádů slovo "Erasmus". Nezdálo se, že by to na dva mladíky a studenty brněnské vysoké školy mělo mít zásadní vliv. Opak byl ovšem pravdou.
@@ -20,9 +20,15 @@ published: true
  
  I začalo čtrnáct dní procházení dokumentů, webů zahraničních univerzit, brekotu nad papírováním, bavením se nad [studentskými recenzemi](http://erasmus-databaze.naep.cz) nebo rozplýváním se nad MHD v cílových destinacích.
  
- *Dva týdny vybírání a hledání probíhaly během zkouškového pátého semestru - údajně nejtěžšího semestru na bakaláři. Výsledek zkoušek tomu moc neodpovídal, AABBBCC.*
+ *Dva týdny vybírání a hledání probíhaly během zkouškového pátého semestru - údajně nejtěžšího semestru na bakaláři. Výsledek zkoušek tomu moc neodpovídal, ABBA BCC.*
  
+ Dlouhý seznam spřátelených škol jsem otevíral s následujícími (pod)vědomými požadavky:
+ - země bez angličtiny jakožto úředního jazyka
+ - žádný Balkán, žádné horké hlavy
+ - žádnou "standardní" výletní destinaci
+ - a taky, logicky, magisterský studijní program
  
+
  <figure>
  <iframe width="610" height="360" class="img-center d-block"
   src="https://www.youtube.com/embed/TYAYA_30DRc"
