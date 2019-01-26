@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Prostě se stalo"
-date:   2018-01-26
+title: Prostě se stalo
+date: {}
 excerpt_separator: <!-- MORE -->
+published: true
 ---
 
  <p class="intro"><span class="dropcap">T</span>o se jednoho prosincového dne roku 2018 o půl jedné v noci <small><i>(úplně přesně 00:20:46)</i></small> objevilo v nejmenovaném komunikačním kanálu dvou dobrých kamarádů slovo "Erasmus". Nezdálo se, že by to na dva mladíky a studenty brněnské vysoké školy mělo mít zásadní vliv. Opak byl ovšem pravdou.
