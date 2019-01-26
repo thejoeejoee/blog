@@ -26,6 +26,7 @@ tags: erasmus joe
  - země bez angličtiny jakožto úředního jazyka
  - žádný Balkán, žádné horké hlavy
  - žádnou "standardní" výletní destinaci
+ - ideálně požadovaná úroveň angličtiny B1 (neboť tu mám jako papír, vyšší bych dodělával)
  - a taky, logicky, magisterský studijní program
  
 
