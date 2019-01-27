@@ -33,7 +33,7 @@ tags: erasmus joe
  
  A znovu jsem nažhavil vyhledávače a několik nekončících nocí prověřoval, zda jsem se zamiloval správně. Dopravně dostupné, okolí vhodné k (pub) výletům, město průchozí pěšky či trolejí a také fakulta v **peckové historické budově** - z brněnského kláštera do [rižského zámečku](https://goo.gl/maps/uozULz5NYxL2)! Teď už se zbývalo *"jen" přihlásit*. 
  
- *"Jen přihlásit"* zní krásně, tak vznešeně, skoro až filozoficky. Vzhledem k tomu, že fakultní řízení zájemců založeno jest na prioritně sestupně sežazeném seznamu škol, které uchazeč preferuje, bylo dalším mým úkolem doplnit alespoň dvě, lépe tři alternativy. Inu, nemusel jsem na to Pobaltí koukat vůbec dlouho. Nerozlučitelná trojka **Lotyšsko-Litva-Estonsko** o sobě dala vědět a do přihlášky na další místa letěl Tallinn a Kaunas.
+ *"Jen přihlásit"* zní krásně, tak vznešeně, skoro až filozoficky. Vzhledem k tomu, že fakultní řízení zájemců založeno jest na prioritně sestupně seřazeném seznamu škol, které uchazeč preferuje, bylo dalším mým úkolem doplnit alespoň dvě, lépe tři alternativy. Inu, nemusel jsem na to Pobaltí koukat vůbec dlouho. Nerozlučitelná trojka **Lotyšsko-Litva-Estonsko** o sobě dala vědět a do přihlášky na další místa letěl Tallinn a Kaunas.
  
  <figure>
  	<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Baltic_States.png" class="img-center" style="max-height: 610px">
