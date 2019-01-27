@@ -31,7 +31,15 @@ tags: erasmus joe
 
  S každým dalším přidaným filtrem se ovšem původně obsáhlý seznam začal dosti zkracovat. A najednou jsem ji uviděl. **University of Latvia. Riga.** No ne, asi jsem se zamiloval. To je ono! Riga! Krásné, mi doposud neznámé, pobřežní historické město. Taková pobaltská Praha, jen menší, s plážemi, kde ruštiny bude tak zhruba stejně. 
  
- A znovu jsem nažhavil vyhledávače a několik nekončících nocí prověřoval, zda jsem se zamiloval správně. Dopravně dostupné, okolí super na výlety, město průchozí pěšky či trolejí a také fakulta v peckové historické budově - z brněnského kláštera do rižského zámečku! Teď už se zbývalo "jen" přihlásit. 
+ A znovu jsem nažhavil vyhledávače a několik nekončících nocí prověřoval, zda jsem se zamiloval správně. Dopravně dostupné, okolí vhodné k (pub) výletům, město průchozí pěšky či trolejí a také fakulta v peckové historické budově - z brněnského kláštera do rižského zámečku! Teď už se zbývalo "jen" přihlásit. 
+ 
+ "Jen přihlásit" zní krásně, tak vznešeně, skoro až filozoficky. Vzhledem k tomu, že fakultní řízení zájemců založeno jest na prioritně sestupně sežazeném seznamu škol, které uchazeč preferuje, bylo dalším mým úkolem doplnit alespoň dvě, lépe tři školy. Inu, nemusel jsem na to Pobaltí koukat vůbec dlouho. Nerozlučitelná trojka Lotyšsko-Litva-Estonsko o sobě dala vědět a do přihlášky letěl Tallinn a Kaunas.
+ 
+ <figure>
+ 	<img src="https://commons.wikimedia.org/wiki/File:Baltic_States.png#/media/File:Baltic_States.png" class="img-center">
+  <figcaption>Pohled na Pobaltí nebyl dlouhý, o to však efektivnější - vybráno!</figcaption>
+ </figure>
+ 
  
 
  <figure>
