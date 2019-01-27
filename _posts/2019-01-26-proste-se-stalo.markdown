@@ -45,20 +45,20 @@ Po pár zkouškách to přišlo, noční nedělní hovory s druhým Erasmus mlad
 
 O pár desítek hodin později.
 
-Parťák: “Vytáhni ty přihlášky, ať to podepíšem.”
-Joe: “Ehm, leží na bytě.”
+**Parťák**: “Vytáhni ty přihlášky, ať to podepíšem.”
+
+**Joe:** “Ehm, leží na bytě.”
 
 Toliko k naší zodpovědné přípravě na výjezd. Alespoň jsme si na konci pátého semestru poprvé vyzkoušeli, jak se tiskne ve fakultní knihovně - podle návodů pro zmatené prváky (taky jsme byli).
 
 
 Nyní nás čeká papírování, přihlašování a zařizování - už jako kavárenští povaleči erasmáci.
-No a tak co? Prostě se stalo.
+**No a tak co? Prostě se stalo.**
 
-
- <figure>
+<figure>
  <iframe width="610" height="360" class="img-center d-block"
   src="https://www.youtube.com/embed/TYAYA_30DRc"
   frameborder="0"></iframe>
   <figcaption>"No a tak co? Prostě se stalo."</figcaption>
-  </figure>
+</figure>
   
