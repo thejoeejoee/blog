@@ -1,7 +1,7 @@
 title: Joe píše
-description: Joe upřímně neupřímně píše o svém studium i životě.
+description: Joe upřímně neupřímně píše o svém studiu i životě.
 
-url: blog.josefkolar.cz
+url: https://blog.josefkolar.cz
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: pretty
@@ -25,4 +25,4 @@ social:
    facebook: kolar.joe
    email: mail@josefkolar.cz
 
-# google_analytics: "UA-58263416-1"
+google_analytics: "UA-108072995-3"
