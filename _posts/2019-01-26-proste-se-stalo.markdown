@@ -29,7 +29,7 @@ tags: erasmus joe
  - ideálně požadovaná úroveň angličtiny B1 (neboť tu mám jako papír, vyšší bych dodělával)
  - a taky, logicky, magisterský studijní program
 
- S každým dalším přidaným filtrem se ovšem původně obsáhlý seznam začal dosti zkracovat. A najednou jsem ji uviděl. **University of Latvia. Riga.** No ne, asi jsem se zamiloval. To je ono! Riga! Krásné, mi doposud neznámé, pobřežní historické město. Taková pobaltská Praha, jen menší, s plážemi, kde ruštiny bude tak zhruba stejně. 
+ S každým dalším přidaným filtrem se ovšem původně obsáhlý seznam začal dosti zkracovat. A najednou jsem ji uviděl. **University of Latvia. Riga.** No ne, asi jsem se zamiloval. To je ono! Riga! Krásné, mi doposud neznámé, pobřežní historické město. Taková pobaltská Praha, jen menší, s plážemi, kde ruštiny bude tak zhruba stejně. Snad to nebude bída s nouzí.
  
  A znovu jsem nažhavil vyhledávače a několik nekončících nocí prověřoval, zda jsem se zamiloval správně. Dopravně dostupné, okolí vhodné k (pub) výletům, město průchozí pěšky či trolejí a také fakulta v **peckové historické budově** - z brněnského kláštera do rižského zámečku! Teď už se zbývalo *"jen" přihlásit*. 
  
@@ -40,8 +40,20 @@ tags: erasmus joe
   <figcaption>Můj pohled na Pobaltí nebyl dlouhý, o to však efektivnější - alternativy vybrány!</figcaption>
  </figure>
  
+ 
+Po pár zkouškách to přišlo, noční nedělní hovory s druhým Erasmus mladíkem, vyplněné a nachystané přihlášky, prsty na myších a společný odpočet. **Odesláno.** Už jen podepsat papír a v pondělí zanést.
 
-TBC
+O pár desítek hodin později.
+
+Parťák: “Vytáhni ty přihlášky, ať to podepíšem.”
+Joe: “Ehm, leží na bytě.”
+
+Toliko k naší zodpovědné přípravě na výjezd. Alespoň jsme si na konci pátého semestru poprvé vyzkoušeli, jak se tiskne ve fakultní knihovně - podle návodů pro zmatené prváky (taky jsme byli).
+
+
+Nyní nás čeká papírování, přihlašování a zařizování - už jako kavárenští povaleči erasmáci.
+No a tak co? Prostě se stalo.
+
 
  <figure>
  <iframe width="610" height="360" class="img-center d-block"
