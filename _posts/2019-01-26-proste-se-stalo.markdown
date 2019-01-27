@@ -36,8 +36,8 @@ tags: erasmus joe
  "Jen přihlásit" zní krásně, tak vznešeně, skoro až filozoficky. Vzhledem k tomu, že fakultní řízení zájemců založeno jest na prioritně sestupně sežazeném seznamu škol, které uchazeč preferuje, bylo dalším mým úkolem doplnit alespoň dvě, lépe tři školy. Inu, nemusel jsem na to Pobaltí koukat vůbec dlouho. Nerozlučitelná trojka Lotyšsko-Litva-Estonsko o sobě dala vědět a do přihlášky letěl Tallinn a Kaunas.
  
  <figure>
- 	<img src="https://commons.wikimedia.org/wiki/File:Baltic_States.png#/media/File:Baltic_States.png" class="img-center">
-  <figcaption>Pohled na Pobaltí nebyl dlouhý, o to však efektivnější - vybráno!</figcaption>
+ 	<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Baltic_States.png" class="img-center">
+  <figcaption>Můj pohled na Pobaltí nebyl dlouhý, o to však efektivnější - alternativy vybrány!</figcaption>
  </figure>
  
  
