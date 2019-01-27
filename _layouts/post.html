@@ -10,7 +10,7 @@ layout: default
     <h1 class="postTitle">{{ page.title }}</h1>
     <p class="meta">
         {{ page.date | date: '%d.%m.%Y' }} |
-        <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minut čtení |
+        <abbr title="{{ page.content | number_of_words | divided_by:180 }}">pár minut</abbr> čtení |
         {{ page.tags|join:", " }}
     </p>
 
