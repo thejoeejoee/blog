@@ -5,6 +5,13 @@ excerpt_separator: <!-- MORE -->
 published: true
 tags: erasmus joe
 ---
+---
+layout: post
+title: Prostě se stalo
+excerpt_separator: <!-- MORE -->
+published: true
+tags: erasmus joe
+---
 
  <p class="intro"><span class="dropcap">T</span>o se jednoho prosincového dne roku 2018 o půl jedné v noci <small><i>(úplně přesně 00:20:46)</i></small> objevilo v nejmenovaném komunikačním kanálu dvou dobrých kamarádů slovo "Erasmus". Nezdálo se, že by to na dva mladíky a studenty brněnské vysoké školy mělo mít zásadní vliv. Opak byl ovšem pravdou.
  </p>
@@ -16,7 +23,7 @@ tags: erasmus joe
    <figcaption>O emoce vyjádřených pomocí peprných slovíček není v našem kanále nouze.</figcaption>
  </figure>
  
- Oba jsme už třetí rok tak nějak přirozeně cítili, že výjezd je další vysokoškolská (super) věc, co musíme absolvovat - po všech těch návštěvách kababáren, pivech, teambuilding akcích i "obyčejných" školních projektech.
+ Oba jsme už třetí rok tak nějak přirozeně cítili, že výjezd je další vysokoškolská (super) věc, co musíme absolvovat - po všech těch návštěvách kebabáren, pivech, teambuilding akcích i "obyčejných" školních projektech.
  
  I začalo čtrnáct dní procházení dokumentů, webů zahraničních univerzit, brekotu nad papírováním, bavením se nad [studentskými recenzemi](http://erasmus-databaze.naep.cz) nebo rozplýváním se nad MHD v cílových destinacích.
  
@@ -25,9 +32,14 @@ tags: erasmus joe
  Dlouhý seznam spřátelených škol jsem otevíral s následujícími (pod)vědomými požadavky:
  - země bez angličtiny jakožto úředního jazyka
  - žádný Balkán, žádné horké hlavy
- - žádnou "standardní" výletní destinaci
+ - žádná "standardní" výletní destinace
+ - zemi, kde nedám za příjemný večer u zlatavého moku půl měsíčního budgetu
  - ideálně požadovaná úroveň angličtiny B1 (neboť tu mám jako papír, vyšší bych dodělával)
  - a taky, logicky, magisterský studijní program
+
+ S každým dalším přidaným filtrem se ovšem původně obsáhlý seznam začal dosti zkracovat. A najednou jsem ji uviděl. **University of Latvia. Riga.** No ne, asi jsem se zamiloval. To je ono! Riga! Krásné, mi doposud neznámé, pobřežní historické město. Taková pobaltská Praha, jen menší, s plážemi, kde ruštiny bude tak zhruba stejně. 
+ 
+ A znovu jsem nažhavil vyhledávače a několik nekončících nocí prověřoval, zda jsem se zamiloval správně. Dopravně dostupné, okolí super na výlety, město průchozí pěšky či trolejí a také fakulta v peckové historické budově - z brněnského kláštera do rižského zámečku! Teď už se zbývalo "jen" přihlásit. 
  
 
  <figure>
