@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Joe papíruje Erasmus #1"
+title:  "Joe papíruje Erasmus"
 date:   2019-08-16
 excerpt_separator: <!-- MORE -->
 published: true
