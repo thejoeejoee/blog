@@ -1053,6 +1053,7 @@ POST STYLING
 .post figure img {
     margin: 0 auto;
     display: block;
+   width: 75%;
 }
 
 .post img {
