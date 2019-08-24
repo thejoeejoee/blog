@@ -17,7 +17,7 @@ tags: erasmus joe
 
  <figure>
  <img src="{{ '/assets/img/carlsberg.png' | prepend: site.baseurl }}" alt="" class="img-center"> 
-   <figcaption>Rižský pivní seriál zahajuje Carlsberg Danish Pilsner - spíš _terrible_ než _great_, takových **2/5**</figcaption>
+  <figcaption>Rižský pivní seriál zahajuje Carlsberg Danish Pilsner - spíš <i>terrible</i> než <i>great</i>, takových <strong>2/5</strong></figcaption>
  </figure>
 
 Riga zkratkovitě po mé půldenní zkušenosti:
