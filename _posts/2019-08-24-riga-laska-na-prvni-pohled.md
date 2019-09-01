@@ -22,7 +22,7 @@ tags: erasmus joe
 
 Riga zkratkovitě po mé půldenní zkušenosti:
 * přistát bez očekávání je to nejlepší, co jsem mohl udělat
-* ~~nedávný socialismus čišíčí nejen urbanisticky, ale i mentálně~~ (bylo mi vysvětleno, že nemůžu poznat socialistický urbanismus, takže je to tu socialistické jen mentálně - díky Káťo!)
+* ~~nedávný socialismus čišíčí nejen urbanisticky, ale i mentálně~~ _(bylo mi vysvětleno, že nemůžu poznat socialistický urbanismus, což je samozřejmě pravda, takže je to tu socialistické jen mentálně - [díky Káťo](https://katanacestach.wordpress.com)!)_
 * elektrokoloběžky, elektrokoloběžky, všude samé elektrokoloběžky
 * přemnoho architektury k navštívení
 * má bezbřehá neznalost ruštiny, doufejme, nebude takový problém
