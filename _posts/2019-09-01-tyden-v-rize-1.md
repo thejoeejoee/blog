@@ -8,7 +8,6 @@ tags: erasmus joe
 ---
 
 <p class="intro"><i><span class="dropcap">U</span>sedám v neděli ráno po týdnu v Rize k psacímu stroji a společně se sluchátky mě čeká pět papírů poznámek zážitků z celého týdne. Ocením, když si ke čtení uvaříte třeba černý čaj za mě, protože já jsem si ho tady ještě nestihl koupit, ehm.</i></p>
-
 <!-- MORE -->
 
 Mám trochu obavy, že pro mne bude problém chronologicky třídit informace a zážitky, ale zkusme to. 
@@ -50,3 +49,10 @@ Na druhou část akce se střídáme s čekající skupinou a obsazujeme stolní
 Po sportu míříme do poetického baru Greenwood, kde usedáme k pivu (tato aktivita postupně přestane mít cenu zmiňovat) - připojuje se k nám Ind Bhaskar, který je členem ESN a studuje v Rize standardní magisterské studium. Velmi zajímavé povídání, thanks Bhaskar! Každopádně z Greenwoodu se přesouváme  do Rock Café, karaoke baru s naprosto nepříhodným názvem. No a tam to jede, světový pop, velmi nadstandardní Shallow od Rusky Anety, Linkini byli také, ovšem na lotyšské lidovky to fakt nemělo. Tu když tam lotyšský DJ pustil, začal celý bar - co jsme se tak ptali, tak všechno samozřejmě o lásce. No a taky první ne zcela příjemná zkušenost - Rusové, co neznají "ne, nechci další vodku" (samozřejmě anglicky :-D), ale cajk, v mnoha Erasmácích jsme jim to vysvětlili. 
 
 Nazpět poprvé první ranní trolejí, první zkušenost také s rižskou policií, která vysvětlovala místnímu pánovi bez domova, že Centraltirgus není vhodné místo ke spaní. 
+
+<figure>
+ <iframe width="610" height="360" class="img-center d-block"
+  src="https://www.youtube.com/embed/8mGBaXPlri8"
+  frameborder="0"></iframe>
+  <figcaption>"All the things she said, running through my head" - od Rock Cafe si to broukám už čtvrtý den.</figcaption>
+</figure>
