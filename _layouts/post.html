@@ -10,7 +10,7 @@ layout: default
     <h1 class="postTitle">{{ page.title }}</h1>
     <p class="meta">
         {{ page.date | date: '%d.%m.%Y' }} |
-        <abbr title="{{ page.content | number_of_words }}">slov</abbr> |
+        {{ page.content | number_of_words }} slov |
         {{ page.tags|join:", " }}
     </p>
 
