@@ -51,6 +51,6 @@ _Pro příště, až budeš chtít zase psát, NEkupuj si k tomu 300g bloček m�
 	src="https://www.youtube.com/embed/dLBi64ez7Po"
 	frameborder="0"></iframe>
 	<figcaption>
-		"Tā daļa Rīgas, Tā daļa manas Rīgas, Sarežģītas, līdz galam nepazītas." - zarývající se píseň o komplikované, ne zcela přátelské, ale milovené Rize.
+		"Tā daļa Rīgas, Tā daļa manas Rīgas, Sarežģītas, līdz galam nepazītas." - zarývající se píseň o komplikované, ne zcela přátelské, ale milované Rize.
 	</figcaption>
 </figure>
