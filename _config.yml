@@ -26,3 +26,6 @@ social:
    email: mail@josefkolar.cz
 
 google_analytics: "UA-108072995-3"
+
+plugins:
+  - jekyll-google-photos
