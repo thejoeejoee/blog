@@ -24,7 +24,7 @@ Na středu se těším - k odpoledni přichází má první hodina lotyštiny. P
 Čtvrtek opět volný den, Riga se proměňuje do standardně podzimního vzhledu (tedy zataženo a fouká) a Slované si dávají společné oběd v menze ve sladěných barvách (nic domluveného, fakt náhoda). Mám menší DD, takže si foťákem vylepšuji náladu na druhém břehu Rigy.         
 
  <figure>
- <img src="https://lh3.googleusercontent.com/9MNcnlZQziUPG5uy6HguIajlpKFr0ju4sSwUd3xy9Vf-QfNxiKwhUC84yX4sLywczZ_oweA_fW5CGYcnvDaBNNjVFBa1TSZamu2DGVrl-jzKbslcWsuAcvhwrjxhgoqIikKAHCI5NEcmK15OlX4l8NymYzor96Sse-CqBIURBEKLONnOMvr75jfPz14JNpycAzq0XG1hWmZaOH_T4L-7QQQTe9BhT0oplmdJMrQ17fpIr66qY7lWCOi7mnLGNQD8JW5AcI-Tde_vPlnn6hT0i0RzHHNK1C3qIlV24sYeRQZAz6c32UBekVwSNwhNnI2XhZF7LiSiE_roy07AqQMkG_rBjqDHw9WiHinzi4jI5fd2o05LxK-J6XAfJ1DDjDTicnZxuSIIJRKEf0HDcKctqBmOEon0L4W6anPaCQRNTv87MCjoImtJglyYBJct314-AC13yoB_Vua2BNzlDUb_xJ8jTomvrco6iotY0BNQC5C9WstbgCqU60whw2UbpHj7XBMdu7R4dSI_dt1_zgOT5Ct5Ia7h6qhaSu9y7X7R3A0tcVV9oq_whX1P4Z8dMdBJkIBt8WeoI_42NnKRa2zb8USzfir8fmqGLHLi7CSL9mhDYJiqOrVU3OPwq6VunWnd03cMzWll7TO9nQruAQPM588S8CbLWsNHeNxk5JvWMgdy1RrqaeoVuoU=w1266-h949-no" alt="" class="img-center"> 
+ <img src="https://scontent.frix3-1.fna.fbcdn.net/v/t1.0-9/69879308_3035593473123719_6991425370192871424_o.jpg?_nc_cat=110&_nc_oc=AQlUqoLt4irBeR5GhPVStjEkXmUU8RyeMBB9nFpd0QUteDO7MG_j6PtReqtYzI67N98&_nc_ht=scontent.frix3-1.fna&oh=08b737358069b24fc980fdeae9bab17e&oe=5E3AF543" alt="" class="img-center"> 
    <figcaption>Takové ty čtvrteční, slovanské, rižskoslovanské šedožlutonáhody.</figcaption>
  </figure>
 
