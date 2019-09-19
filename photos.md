@@ -17,5 +17,7 @@ title: Fotky
     <li><a href="https://photos.app.goo.gl/D4EjyaikuggtKhPw5">Rīga 12.9.2019</a> - z centra Rigy na druhý břeh ke knihovně a památníku osvobození</li>
 
     <li><a href="https://photos.app.goo.gl/Auv1bAoT1SoVP4ZE9">Rīga 13.9.2019</a> - návštěva muzea okupací Lotyšska a pár nočních rižských momentek</li>
+
+    <li><a href="https://photos.app.goo.gl/5qKGD1bdExfKedJs7">Daugavgrīvas bāka 14.9.2019</a> - výlet k majáku u ústí Dougavy do Rižského zálivu</li>
   </ul>
 </div>
