@@ -19,5 +19,7 @@ title: Fotky
     <li><a href="https://photos.app.goo.gl/Auv1bAoT1SoVP4ZE9">Rīga 13.9.2019</a> - návštěva muzea okupací Lotyšska a pár nočních rižských momentek</li>
 
     <li><a href="https://photos.app.goo.gl/5qKGD1bdExfKedJs7">Daugavgrīvas bāka 14.9.2019</a> - výlet k majáku u ústí Dougavy do Rižského zálivu</li>
+
+    <li><a href="https://photos.app.goo.gl/VrhrUXvfN6TAZzh7A">Fridays For Future 20.9.2019</a> - rižská instance celosvětového protestu a naše účast na ní</li>
   </ul>
 </div>
