@@ -8,7 +8,6 @@ tags: erasmus joe
 ---
 
 <p class="intro"><i><span class="dropcap">P</span>o první mé lotyšské hodině usedám společně s ovocným pivem Brůža Ogu Bruvenjums (recenze bude, nebojte) k psacímu stroji a čeká mě zbytek prvního týdne v Rize. Za oknem prší, první pozdravy blížícího se podzimu, ve sluchátkách pinkfloydovské "Remember when you were young, you shone like the sun" a klávesnice může začít klapat.</i></p>
-
 <!-- MORE -->
 
 ### Středa
@@ -19,7 +18,7 @@ Tak teď ještě dostat na kartičku ten měsíční kupón. V menze žhavím te
 
 _IT okénko: znamená to tedy, že kupony jsou nahrané na těch nejspíš RFID kartách a právě aktivace v automatu je tam nahrává. Řešení, kdy by karta sloužila pouze jako ID nejspíš naráží na latenci z busu/šalin/trolejí, protože tam musí pípat všichni, kdo vchází. Nebyla by kombinace obou přístupů rychlejší? Karta by byla identifikátor i nosič - při pípnutí by buď na kartě byl kupon, anebo nebyl a terminál by se zeptal na centrálu, zda tam pro tuto kartu čeká nějaký kupon a případně by ho nahrál. Samozřejmě, riziko neúplného zápisu či nedostupného internetu, ale stejně by mě ta architektonická rozhodnutí realizátora zajímala._
 
-Na pozdní odpoledne se vracím do centra na ESN Pub Crawl. Bhaskar už v úterý něco naznačoval, rozdělíme se náhodně do desíti skupin a s pomocí slev projdeme pár barů, abychom se navzájem víc poznali (a samozřejmě i ty bary). S každým dalším okamžikem si uvědomuji, jak tu potkávám samé Němce. Takže dva právníky, nějaké architekty, další ze Slovanské party a nakonec i Kazastánky a Jihokorejky. Během přesunů jsme se také dali do řeči s jednou Polkou, takže nemohlo chybět "a když budu mluvit takhle pomalu, budeš mi rozumnět?".
+Na pozdní odpoledne se vracím do centra na ESN Pub Crawl. Bhaskar už v úterý něco naznačoval, rozdělíme se náhodně do desíti skupin a s pomocí slev projdeme pár barů, abychom se navzájem víc poznali (a samozřejmě i ty bary). S každým dalším okamžikem si uvědomuji, jak tu potkávám samé Němce. Takže dva právníky, nějaké architekty, další ze Slovanské party a nakonec i Kazachstánky a Jihokorejky. Během přesunů jsme se také dali do řeči s jednou Polkou, takže nemohlo chybět "a když budu mluvit takhle pomalu, budeš mi rozumnět?".
 
 Ve skupince nás po celý večer vyprovázely dvě slečny z ESN, nejspíš místní. V prvním baru ze tří každá seděla u samostatného stolu a zíraly do mobilu. V druhém baru už se sedly k jednomu stolu, ale pořád koukaly do telefonů. No a ve třetím to začalo - využily možnosti pro vedoucí skupinek dostat drink zdarma a nejspíš nebyly zcela zvyklé, takže si ve velmi dobrém rozpoložení začaly povídat. Přišel čas k odletu na afterparty, ovšem moc se jim nechtělo. Takže jsme se dali do hovoru s Julií a po odpovědi na otázku, odkud pocházím, se mi dostalo, že jako Lotyška závidí Čechům, že máme na porno serverech vlastní kategorii. Aha, super úvod konverzace :-D. Po setkání se s Estonkami na výletě a přemlouvání Julie jsme vyrazili na after - úspěch! 
 
