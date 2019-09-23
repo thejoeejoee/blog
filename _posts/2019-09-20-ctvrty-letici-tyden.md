@@ -60,6 +60,6 @@ Nepochybně náročný týden, hokej, demonstrace, výlet, výlet. _Uvidíme, ja
 	src="https://www.youtube.com/embed/I7-HNDQ0l_w"
 	frameborder="0"></iframe>
 	<figcaption>
-		"člověk ze zoufalství, snadno pomate se". U této není prostor pro další komentář - kdo nezná příběh za touto silnou skladbou, povinně si dohledejte.
+		"člověk ze zoufalství, snadno pomate se". <br>	U této není prostor pro další komentář - kdo nezná příběh za touto silnou skladbou, povinně si dohledejte.
 	</figcaption>
 </figure>
