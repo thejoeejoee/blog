@@ -1,5 +1,16 @@
 <div class="footer">
    <div class="container">
+      <h6>Novinky na email</h6>
+      <small>
+      <form method='post' action='https://blogtrottr.com'>
+          Zasílat na email:
+          <input type='text' name='btr_email' /><br />
+          <input type='hidden' name='btr_url' value='https://blog.josefkolar.cz/feed.xml' />
+          <input type='hidden' name='schedule_type' value='0' />
+          <input type='submit' value='Zasílat' />
+      </form>
+      </small>
+
       <p class="copy">&copy; {{ site.time | date: '%Y' }} <a href="http://brianmaierjr.com">Brian Maier Jr.</a> Powered by <a href="http://jekyllrb.com">Jekyll</a>.</p>
 
       <div class="footer-links"> 
