@@ -23,5 +23,7 @@ title: Fotky
     <li><a href="https://photos.app.goo.gl/VrhrUXvfN6TAZzh7A">Fridays For Future 20.9.2019</a> - rižská instance celosvětového protestu a naše účast na ní</li>
 
     <li><a href="https://photos.app.goo.gl/STP8hGu5cNyvxL157">Meža kapi 21.9.2019</a> - návstěva rižského lesního hřbitova za městem</li>
+
+    <li><a href="https://photos.app.goo.gl/9HQGCLKz2paVHS358">Lilaste 22.9.2019</a> - výlet vlakem do deštivého Lilaste za houbami</li>
   </ul>
 </div>
