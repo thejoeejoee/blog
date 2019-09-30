@@ -25,5 +25,6 @@ title: Fotky
     <li><a href="https://photos.app.goo.gl/STP8hGu5cNyvxL157">Meža kapi 21.9.2019</a> - návstěva rižského lesního hřbitova za městem</li>
 
     <li><a href="https://photos.app.goo.gl/9HQGCLKz2paVHS358">Lilaste 22.9.2019</a> - výlet vlakem do deštivého Lilaste za houbami</li>
+    <li><a href="https://photos.app.goo.gl/6dLtqn9zR74SJR2M9">Vecrīga um Mežaparks 26.9.</a> - znovunávštěva centra Rigy a výlet za město do lesního parku s amfiteátrem</li>
   </ul>
 </div>
