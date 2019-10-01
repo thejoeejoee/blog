@@ -36,7 +36,7 @@ V neděli se loučíme s odjíždějící taliňačkou Luckou, dáváme kávu v 
 
  <figure>
  <img src="{{ site.baseurl }}/assets/img/IMG_0509.JPG" alt="" class="img-center"> 
-   <figcaption>Když z toho není fotka, nestalo se to - takže loučení se s Luckou se určitě stalo.</figcaption>
+   <figcaption>Když z toho není fotka, nestalo se to - takže loučení se s Luckou se určitě stalo. Také nutno povšimnout, kdo musí fotit, aby nebyly vidět čelospáneniny.</figcaption>
  </figure>
 
 _Dopisuji po půlnoci v noci z pondělí na úterý, tedy později než obvykle - ale pořád celkem celistvě, bohudíky. Příští týden tu mám návštěvu a logicky naplánovaný další výlet, takže opět budou fotky a opět budu dopisovat až někdy po víkendu._ 
