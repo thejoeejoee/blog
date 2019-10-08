@@ -25,6 +25,11 @@ title: Fotky
     <li><a href="https://photos.app.goo.gl/STP8hGu5cNyvxL157">Meža kapi 21.9.2019</a> - návstěva rižského lesního hřbitova za městem</li>
 
     <li><a href="https://photos.app.goo.gl/9HQGCLKz2paVHS358">Lilaste 22.9.2019</a> - výlet vlakem do deštivého Lilaste za houbami</li>
+    
     <li><a href="https://photos.app.goo.gl/6dLtqn9zR74SJR2M9">Vecrīga um Mežaparks 26.9.</a> - znovunávštěva centra Rigy a výlet za město do lesního parku s amfiteátrem</li>
+
+    <li><a href="https://photos.app.goo.gl/xNiBmQ1PMDcghzmw7">Latgale trip 27.-28.9.</a> - dvoudenní ESN výlet do regionu Latgale</li>
+
+    <li><a href="https://photos.app.goo.gl/2vXTC6QEhzi3Gt9H8">Sigulda, Krimulda & Turaida 4.10.</a> - vlastní náštěva tří hradů a nádherná podzimní lotyšská příroda</li>
   </ul>
 </div>
