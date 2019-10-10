@@ -10,7 +10,6 @@ tags: erasmus joe
 ---
 
 <p class="intro"><i><span class="dropcap">Č</span>tyřicátý kalendářní týden roku 2019 dostane adjektivum podle návštěvy z druhé poloviny týdne, mé druhé rižské návštěvy - ale k tomu až dále. Za oknem nám dává Riga zkusit její věčeně deštivé chuti, dny se krátí a teplota klesá. Stromy se ovšem nádherně jeseňově zbarvily, rižské parky poskytují vizuální nádhery a nálada se také přesunula na podzimní úroveň.</i></p>
-
 <!-- MORE -->
 
 Pondělí startuje týden se svojí Teorií her, lotyšským jazykem a večerním kolejopokecem s Hančou a Jančou o životních zásadách. Takový klidnější den z víru všech výletů, školy a nočních dobrodružství. 
@@ -40,7 +39,7 @@ V pátek kromě ranní přednášky o UNIXu (s tématem kompilátory a jak to vl
 
 Sobota je pro znalce Xindla X ve znamení MK, beru tedy moji milovanou maminku na pláž Vecāķi, kde se procházíme pod utíkajícími mraky, takže se počasí mění od hrozícího deště po krásně slunnou oblohu. Celkem náhodou také potkáváme nádherného huskiho, který se rád fotí, takže budu mít ve své rižské fotosbírce i něco jiného než čajky. Vlastně příjemné klidné odpoledne, zakončené večer v kině na podivné oddechovce Good boys, takových 1,5/5, spíš 1/5.
 
-V neděli využívám znalostí starého centra Rigy a ukazuji návštěvě všech 42 kostelů v centru, ta největší náměstí a nakonec míříme i na vyhlídková patra nepěkné (dle slov dvou urbanistek, dle mých slov spíš krásné) lotyšské národní knihovny obhlédnout tu místní lotyšskou placku i z výšin. Týden zakončujeme na společné kávě s pár Slovankami a poté hraním Monopolů v Tallinas Pagalms (je to láska, říkám to furt). 
+V neděli využívám znalostí starého centra Rigy a ukazuji návštěvě všech 42 kostelů v centru, ta největší náměstí a nakonec míříme i na vyhlídková patra nepěkné (dle slov ~~dvou urbanistek~~  architektky a inženýrky, dle mých slov spíš krásné) lotyšské národní knihovny obhlédnout tu místní lotyšskou placku i z výšin. Týden zakončujeme na společné kávě s pár Slovankami a poté hraním Monopolů v Tallinas Pagalms (je to láska, říkám to furt). 
 
 _Dopisuji, drazí přátelé, kamarádi a čtenáři, ve čtvrtek odpoledne. Letí to tu a najít si pár hodin na sepsání je celkem obtížné. Ale co bych pro sebe na čtení za rok neudělal, že._   
 
