@@ -4,7 +4,7 @@ title:  "Čtvrtý rižský týden - letící"
 date:   2019-09-20
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 
 
 ---

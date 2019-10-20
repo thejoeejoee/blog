@@ -4,7 +4,7 @@ title:  "Poznatky po desíti dnech"
 date:   2019-09-05
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 
 ---
 

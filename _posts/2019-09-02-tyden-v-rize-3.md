@@ -4,7 +4,7 @@ title:  "Týden v Rize 3/3"
 date:   2019-09-03
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 
 ---
 

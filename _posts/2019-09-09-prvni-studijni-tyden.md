@@ -4,7 +4,7 @@ title:  "Druhý rižský týden - studijní"
 date:   2019-09-09
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 
 ---
 

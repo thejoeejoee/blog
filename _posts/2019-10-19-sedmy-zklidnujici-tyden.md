@@ -4,7 +4,6 @@ title:  "Sedmý rižský týden - zklidňující"
 date:   2019-10-19
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
 
 
 ---

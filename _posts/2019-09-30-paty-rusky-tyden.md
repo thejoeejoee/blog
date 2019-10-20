@@ -4,7 +4,7 @@ title:  "Pátý rižský týden - ruský"
 date:   2019-09-30
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 
 
 ---

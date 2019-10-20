@@ -4,7 +4,7 @@ title:  "Joe papíruje Erasmus"
 date:   2019-08-16
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 ---
 
 <p class="intro"><span class="dropcap">P</span>řihlaš se, bude to super, říkali.

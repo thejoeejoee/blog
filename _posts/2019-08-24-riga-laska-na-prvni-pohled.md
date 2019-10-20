@@ -4,7 +4,7 @@ title:  "Riga - láska za první půlden?"
 date:   2019-08-24
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 ---
 
 <p class="intro">

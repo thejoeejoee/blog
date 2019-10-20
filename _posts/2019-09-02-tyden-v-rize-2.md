@@ -4,7 +4,7 @@ title:  "Týden v Rize 2/3"
 date:   2019-09-02
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 ---
 
 <p class="intro"><i><span class="dropcap">P</span>o první mé lotyšské hodině usedám společně s ovocným pivem Brůža Ogu Bruvenjums (recenze bude, nebojte) k psacímu stroji a čeká mě zbytek prvního týdne v Rize. Za oknem prší, první pozdravy blížícího se podzimu, ve sluchátkách pinkfloydovské "Remember when you were young, you shone like the sun" a klávesnice může začít klapat.</i></p>

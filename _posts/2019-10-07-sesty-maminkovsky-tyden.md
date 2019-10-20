@@ -4,7 +4,7 @@ title:  "Šestý rižský týden - maminkovský"
 date:   2019-10-07
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 
 
 ---

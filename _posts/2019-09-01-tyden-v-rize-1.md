@@ -4,7 +4,7 @@ title:  "Týden v Rize 1/2"
 date:   2019-09-01
 excerpt_separator: <!-- MORE -->
 published: true
-tags: erasmus joe
+
 ---
 
 <p class="intro"><i><span class="dropcap">U</span>sedám v neděli ráno po týdnu v Rize k psacímu stroji a společně se sluchátky mě čeká pět papírů poznámek zážitků z celého týdne. Ocením, když si ke čtení uvaříte třeba černý čaj za mě, protože já jsem si ho tady ještě nestihl koupit, ehm.</i></p>
