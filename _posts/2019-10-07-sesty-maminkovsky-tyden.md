@@ -9,7 +9,7 @@ tags: erasmus joe
 
 ---
 
-<p class="intro"><i><span class="dropcap">Č</span>tyřicátý kalendářní týden roku 2019 dostane adjektivum podle návštěvy z druhé poloviny týdne, mé druhé rižské návštěvy - ale k tomu až dále. Za oknem nám dává Riga zkusit její věčeně deštivé chuti, dny se krátí a teplota klesá. Stromy se ovšem nádherně jeseňově zbarvily, rižské parky poskytují vizuální nádhery a nálada se také přesunula na podzimní úroveň.</i></p>
+<p class="intro"><i><span class="dropcap">Č</span>tyřicátý kalendářní týden roku 2019 dostane adjektivum podle návštěvy z druhé poloviny týdne, mé druhé rižské návštěvy - ale k tomu až dále. Za oknem nám dává Riga zkusit její věčně deštivé chuti, dny se krátí a teplota klesá. Stromy se ovšem nádherně jeseňově zbarvily, rižské parky poskytují vizuální nádhery a nálada se také přesunula na podzimní úroveň.</i></p>
 <!-- MORE -->
 
 Pondělí startuje týden se svojí Teorií her, lotyšským jazykem a večerním kolejopokecem s Hančou a Jančou o životních zásadách. Takový klidnější den z víru všech výletů, školy a nočních dobrodružství. 
