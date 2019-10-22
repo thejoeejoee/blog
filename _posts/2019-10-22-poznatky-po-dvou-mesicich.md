@@ -16,7 +16,7 @@ published: true
 
 To teda začínám tématem, ale co už. Nejspíš jako ryba, co si všímá naprosto zbytečných věcí okolo sebe, jsem si žitím v Rize začal všímat jedné věci - v poměru k Brnu a nejspíš i celé České republice se tu vyskytuje poměrně více tělesně postižených. Dost možná to bude následek stavu zdravotnictví po socialistické minulosti, ale netroufám si odhadovat. Při jednom z výletů jsem toto mé pozorování sdělil mým spoluvýletníkům, kterým se (Hance teda) podařilo najít průkazné statistické šetření pro mé pozorování - tedy že je procento zde vyšší než v Česku/Slovensku. _Zkusím tu statistiku dohledat, ale nezaručuji._
 
- #### 2. Rozmístění a pojmenování zastávek
+#### 2. Rozmístění a pojmenování zastávek
 
 Prvně musím říct, že rižský dopravní podnik dle mého dělá výbornou práci, stejně jako plánovač linek  si myslím, že odvedl velmi dobrou práci. Ale měl bych tu jednu výtku, na kterou přijde návštěvník Rigy po dnu tady. 
 
