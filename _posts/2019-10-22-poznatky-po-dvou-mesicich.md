@@ -26,6 +26,11 @@ A ještě jeden příklad, tentokrát konečné stanice v městské části Jugl
 
 Rozhodně to není případ jen těchto dvou zmíněných zastávek - je to tu úplně všude. Chápu případ, kdy je jedna zastávka o blok vedle, protože jednosměrky. U univerzity mají ovšem takto postavené zastávky stejná jména, o blok vedle to funguje zase úplně jinak.
 
+ <figure>
+ <img src="{{ site.baseurl }}/assets/img/1571738074913.png" alt="" class="img-center"> 
+   <figcaption>Přestup na Centrālā stacija? No projdete se, tohle za dvě minuty nebude. </figcaption>
+ </figure>
+
 #### 3. Košile a jejich knoflíky
 
 Tohle je spíš taková, úplná, blbost. Před pár týdny jsme se Slovany začali dohadovat, kde má na košili kdo knoflíky (a kde otvory). Podařilo se mi samotnému postavit do role, kdy jsem tvrdil, že mužské košile mají vpravo (z pohledu nositele) knoflíky a vpravo otvory. Ostatní Slované nevěřili, takže jsme se ihned v centru vydali do několika obchodů i sekáčů. Takže ano, měl jsem pravdu, ženské košile to mají naopak než ty mužské. Včetně těch baltských, lotyšských i rižských. 
