@@ -14,7 +14,7 @@ published: true
 
 #### 1. Míra tělesně postižených v Lotyšsku
 
-To teda začínám tématem, ale co už. Nejspíš jako ryba, co si všímá naprosto zbytečných věcí okolo sebe, jsem si žitím v Rize začal všímat jedné věci - v poměru k Brnu a nejspíš i celé České republice se tu vyskytuje poměrně více tělesně postižených. Dost možná to bude následek stavu zdravotnictví po socialistické minulosti, ale netroufám si odhadovat. Při jednom z výletů jsem toto mé pozorování sdělil mým spoluvýletníkům, kterým se (Hance teda) podařilo najít průkazné statistické šetření pro mé pozorování - tedy že je procento zde vyšší než v Česku/Slovensku. _Zkusím tu statistiku dohledat, ale nezaručuji._
+To teda začínám tématem, ale co už. Nejspíš jako ryba, co si všímá naprosto zbytečných věcí okolo sebe, jsem si žitím v Rize začal všímat jedné věci - v poměru k Brnu a nejspíš i celé České republice se tu vyskytuje poměrně více tělesně postižených. Dost možná to bude následek stavu zdravotnictví po socialistické minulosti, ale netroufám si odhadovat. Při jednom z výletů jsem toto mé pozorování sdělil mým spoluvýletníkům, kterým se (Hance teda) podařilo najít průkazné statistické šetření pro mé pozorování - tedy že je procento zde vyšší než v Česku/Slovensku. Spolucestující, zaměstnanci kolejí, profesoři, kolemjdoucí, prostě všichni bez rozdílů obsahují nějaké procento kulhajících, napadajících na jednu stranu či s jiným problémem fyzického rázu. _Zkusím tu statistiku dohledat, ale nezaručuji._
 
 #### 2. Rozmístění a pojmenování zastávek
 
