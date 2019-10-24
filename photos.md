@@ -33,5 +33,8 @@ title: Fotky
     <li><a href="https://photos.app.goo.gl/2vXTC6QEhzi3Gt9H8">Sigulda, Krimulda & Turaida 4.10.</a> - vlastní náštěva tří hradů a nádherná podzimní lotyšská příroda</li>
 
     <li><a href="https://photos.app.goo.gl/wNsiPoz5wPb44RSs6">Biķernieku memoriāls 11.10.</a> - komorní návštěva lesa v okolí Biķernieku s památníkem věnovaným obětem druhé světové války</li>
+
+
+    <li><a href="https://photos.app.goo.gl/Wwg8VhVNtpnkCSL47">Salaspils 18.10.</a> - návštěva koncentračního tábora Salaspils</li>
   </ul>
 </div>
