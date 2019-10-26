@@ -36,5 +36,7 @@ title: Fotky
 
 
     <li><a href="https://photos.app.goo.gl/Wwg8VhVNtpnkCSL47">Salaspils 18.10.</a> - návštěva koncentračního tábora Salaspils</li>
+
+    <li><a href="https://photos.app.goo.gl/WU57gprZBPSijEYi6">Zaķusala 19.10.</a> - ostrov na řece Daugavě s televizní věží a lotyšskou televizí</li>
   </ul>
 </div>
