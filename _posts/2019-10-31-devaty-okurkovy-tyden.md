@@ -18,7 +18,7 @@ Pondělí ozvláštňuje výlet na letiště, letecky se nám vrací z nedaleké
    <figcaption>I studenti vysokých škol si rádi hrají.</figcaption>
  </figure>
 
-Úterý zahajují paralelní algoritmy s mírně bilingvními snímky k prezentaci, ale tak co bych si nedomyslel. K večeru menší hurá výlet na břeh Dougavy do městské části Ķengarags, která mi už dva měsíce připomíná kangaroos, tedy klokany. I když dle správné lotyšské výslovnosti se jedná o [těngaraks]. Každopádně má tato čtvrť dost neblahou pověst, nejspíš nejhorší že všech čtvrtí, vzhledem k poměru ruského obyvatelstva a celkových finančních investic do této části (nejspíš žádných). Tento názor nám několikakilometrová procházka náplavkou částečně vyvrací, není to tak hrozné, ale zase jsme šli jen po pobřeží.   
+Úterý zahajují paralelní algoritmy s mírně bilingvními snímky k prezentaci, ale tak co bych si nedomyslel. K večeru menší hurá výlet na břeh Daugavy do městské části Ķengarags, která mi už dva měsíce připomíná kangaroos, tedy klokany. I když dle správné lotyšské výslovnosti se jedná o [těngaraks]. Každopádně má tato čtvrť dost neblahou pověst, nejspíš nejhorší že všech čtvrtí, vzhledem k poměru ruského obyvatelstva a celkových finančních investic do této části (nejspíš žádných). Tento názor nám několikakilometrová procházka náplavkou částečně vyvrací, není to tak hrozné, ale zase jsme šli jen po pobřeží.   
 
  <figure> 
  <img src="{{ site.baseurl }}/assets/img/IMG_0182.jpg" alt="" class="img-center"> 
