@@ -38,5 +38,10 @@ title: Fotky
     <li><a href="https://photos.app.goo.gl/Wwg8VhVNtpnkCSL47">Salaspils 18.10.</a> - návštěva koncentračního tábora Salaspils</li>
 
     <li><a href="https://photos.app.goo.gl/WU57gprZBPSijEYi6">Zaķusala 19.10.</a> - ostrov na řece Daugavě s televizní věží a lotyšskou televizí</li>
+
+    <li><a href="https://photos.app.goo.gl/TwfK4BUKcz955ewMA">Ķengarags 22.10.</a> - procházka po břehu Daugavy v jedné z horších rižských čtvrtích</li>
+
+    <li><a href="https://photos.app.goo.gl/DK9azPPsqhsgX3gH9">Pārdaugava 25.10.</a> - průzkum severní části druhého břehu Rigy včetně spousty kontrastů v místním hlavním městě</li>
+
   </ul>
 </div>
