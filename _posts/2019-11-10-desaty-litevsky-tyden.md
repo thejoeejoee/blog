@@ -8,7 +8,7 @@ published: true
 
 ---
 
-<p class="intro"><i><span class="dropcap">J</span>ubilejní desátý rižský týden ozdobí první shíh, povedené basketové utkání, dobře vybraná autíčka na výlet do Litvy i plzeňsko-litevské nadšení. Psáno v teple pokoje s černým čajem, sušenými brusinkami z Lidlu a <a href="https://www.youtube.com/watch?v=7BVMt9BCTy0">tatáčema</a> v uších.</i></p>
+<p class="intro"><i><span class="dropcap">J</span>ubilejní desátý rižský týden ozdobí první sníh, povedené basketové utkání, dobře vybraná autíčka na výlet do Litvy i plzeňsko-litevské nadšení. Psáno v teple pokoje s černým čajem, sušenými brusinkami z Lidlu a <a href="https://www.youtube.com/watch?v=7BVMt9BCTy0">tatáčema</a> v uších.</i></p>
 <!-- MORE --> 
 
 Pondělí kromě teorie her, kde řešíme etiku křižovatek a ceně toho, že pojedeme na červenou, výborných koprových noků z menzy, hledání těžší kuličky z šestnácti na co nejmenší počet měření a omylem masovému vývaru z krabičky, který maso neviděl, zdobí domácí státní svátek s předáváním státních vyznamenání. I na tu dálku tisíce kilometrů je to fakt zážitek. Nechutné, vrah o morálce káže.
