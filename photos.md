@@ -45,8 +45,6 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/tpeNPA6VaKcePxBc6">Dzīvnieku patversme 27.10.</a> - lesní procházka s dvěma čtyřnohými útulkáči</li>
 
-    <li><a href="https://photos.app.goo.gl/tpeNPA6VaKcePxBc6">Dzīvnieku patversme 27.10.</a> - lesní procházka s dvěma čtyřnohými útulkáči</li>
-
     <li><a href="https://photos.app.goo.gl/r1aU5eNQWXUZioB97">Ceļojums pa Lietuvu 2.-4.11.</a> - třídenní výlet autem na západ Lotyšska, pobřežní část Litvy a nakonec i vnitrozemní Kaunas s Vilniusem</li>
 
   </ul>
