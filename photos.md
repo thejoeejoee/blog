@@ -47,7 +47,7 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/r1aU5eNQWXUZioB97">Ceļojums pa Lietuvu 2.-4.11.</a> - třídenní výlet autem na západ Lotyšska, pobřežní část Litvy a nakonec i vnitrozemní Kaunas s Vilniusem</li>
 
-    <li><a href="https://photos.app.goo.gl/UaNuoYQxzG6cKFqm6">Lāčplēša diena 11.11.</a> - pár záběrů z význameného dne na uctění pladných při boji za lotyšskou svobodu</li>
+    <li><a href="https://photos.app.goo.gl/UaNuoYQxzG6cKFqm6">Lāčplēša diena 11.11.</a> - pár záběrů z významného dne na uctění padlých při boji za lotyšskou svobodu</li>
 
   </ul>
 </div>
