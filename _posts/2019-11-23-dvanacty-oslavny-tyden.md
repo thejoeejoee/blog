@@ -47,15 +47,12 @@ _Vážně bych potřeboval delší den, tohle se nedá stíhat všechno. Holt pr
 
 <figure>
 	<iframe width="610" height="360" class="img-center d-block"
-	src="https://www.youtube.com/embed/qgJldIpdiiQ"
+	src="https://www.youtube.com/embed/zp7NtW_hKJI"
 	frameborder="0"></iframe>
 	<figcaption>
-		"Nachýlil sa deň <br>
-		Znova drsno svitá <br>
-		Noc je definitívne dopitá <br>
-		Už pochovali noc <br>
-		A deň si to odpyká" <br>
-        K plně využitému erasmovému času přidělenému Rize.  
+        "Because you're a sky, you're a sky full of stars, such a heavenly view!" <br>
+        Tentokrát pro všechny, co se zvládnout zastavit, podívat se na oblohu a opravdu se zamyslet.  <br> 
+        A také pro všechny fanoušky této kapely, kteří neumí tleskat.
 	</figcaption>
 </figure>   
 
