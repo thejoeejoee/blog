@@ -49,5 +49,7 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/UaNuoYQxzG6cKFqm6">Lāčplēša diena 11.11.</a> - pár záběrů z významného dne na uctění padlých při boji za lotyšskou svobodu</li>
 
+    <li><a href="https://photos.app.goo.gl/xzBgAARgXAtuC9uW8">Staro Rīga 16.11.</a> - světelný festival v centru Rigy</li>
+
   </ul>
 </div>
