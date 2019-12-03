@@ -8,7 +8,7 @@ published: true
 
 ---
 
-<p class="intro"><i><span class="dropcap">P</span>oslední neprosincový týden je složen ze spousty různých aktivit, od vybavování se na výlet do Finska, přes oslavování lotyšské nezávislosti a univerzitní volejbal až k cestě na sever Laponska. Ve zmrzlé Rize napadlo několik centimetrů krásně bílé pokrývky a busíky začínají mít menší problémy brázdit ulice hlavního města Lotyšska.</i></p>
+<p class="intro"><i><span class="dropcap">P</span>oslední neprosincový týden je složen ze spousty různých aktivit, od vybavování se na výlet do Finska, přes oslavování lotyšské nezávislosti a univerzitní volejbal, až k cestě na sever Laponska. Ve zmrzlé Rize napadlo několik centimetrů krásně bílé pokrývky a busíky začínají mít menší problémy brázdit ulice hlavního města Lotyšska.</i></p>
 
 <!-- MORE --> 
 
