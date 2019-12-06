@@ -47,9 +47,15 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/r1aU5eNQWXUZioB97">Ceļojums pa Lietuvu 2.-4.11.</a> - třídenní výlet autem na západ Lotyšska, pobřežní část Litvy a nakonec i vnitrozemní Kaunas s Vilniusem</li>
 
+    <li><a href="https://photos.app.goo.gl/zoezzwy4FfQePnhu5">Saulkrasti 10.11.</a> - výlet vlakem do typické lotyšské vesničky nedaleko Rigy</li>
+
     <li><a href="https://photos.app.goo.gl/UaNuoYQxzG6cKFqm6">Lāčplēša diena 11.11.</a> - pár záběrů z významného dne na uctění padlých při boji za lotyšskou svobodu</li>
 
     <li><a href="https://photos.app.goo.gl/xzBgAARgXAtuC9uW8">Staro Rīga 16.11.</a> - světelný festival v centru Rigy</li>
+
+    <li><a href="https://photos.app.goo.gl/fypNPuoYmqNknmuu7">Latvijas Republikas proklamēšanas diena 18.11.</a> - den oslav nezávilosti lotyšského státu</li>
+
+    <li><a href="https://photos.app.goo.gl/zoezzwy4FfQePnhu5">Lapland 23-29.11.</a> - zmrzlý sever Finska v hledáčku mého fotopřístroje včetně tun sněhu, krásné přírody a usměvavých spoluerasmáků</li>
 
   </ul>
 </div>
