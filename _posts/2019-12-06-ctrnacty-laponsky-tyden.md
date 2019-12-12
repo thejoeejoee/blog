@@ -55,7 +55,7 @@ První adventní neděle (brrrr) pokračuje v nastaveném směru ze soboty, dod�
    <figcaption>Laponsko bylo super i díky vám, děkuji vám mnohokrát, Kiko a Šimone! ❤️</figcaption>
  </figure>
 
-_Fuuh, už ani nevím jaké mám zpoždění, ale je velmi příjemné na všechny tyto příjemné chvíli vzpomínat._
+_Fuuh, už ani nevím jaké mám zpoždění, ale je velmi příjemné na všechny tyto příjemné chvíli vzpomínat. Mimochodem, všechna alba, včetně laponského, fotek z mého digitálního fotoaparátu naleznete na <a href="/photos/">této stránce</a>, případně odkazem z podtitulku tohoto webu - Joe fotí._
 
 
 
