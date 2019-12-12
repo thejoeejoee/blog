@@ -55,7 +55,7 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/fypNPuoYmqNknmuu7">Latvijas Republikas proklamēšanas diena 18.11.</a> - den oslav nezávilosti lotyšského státu</li>
 
-    <li><a href="https://photos.app.goo.gl/zoezzwy4FfQePnhu5">Lapland 23-29.11.</a> - zmrzlý sever Finska v hledáčku mého fotopřístroje včetně tun sněhu, krásné přírody a usměvavých spoluerasmáků</li>
+    <li><a href="https://photos.app.goo.gl/D7y5vJRrW6ciAWtLA">Lapland 23-29.11.</a> - zmrzlý sever Finska v hledáčku mého fotopřístroje včetně tun sněhu, krásné přírody a usměvavých spoluerasmáků</li>
 
   </ul>
 </div>
