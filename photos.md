@@ -57,5 +57,9 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/D7y5vJRrW6ciAWtLA">Lapland 23-29.11.</a> - zmrzlý sever Finska v hledáčku mého fotopřístroje včetně tun sněhu, krásné přírody a usměvavých spoluerasmáků</li>
 
+    <li><a href="https://photos.app.goo.gl/47jdSVdBm2LyvbBD6">Skulte 3.12.</a> - mikrovesnička nedaleko za Rigou, trocha přírody a chytání letadl zpoza plotu</li>
+
+    <li><a href="https://photos.app.goo.gl/AVBoZfBLsTEoeJjC8">Skulte 3.12.</a> - výlet k protimořcům do hlavního města Švédska, Stockholmu</li>
+
   </ul>
 </div>
