@@ -20,22 +20,22 @@ Předvánoční pondělí a první zkouška semestru! Tu se moc neřeší předt
    <figcaption>Je čas udělat Rize na chvíli pápá ve formě akropolského bruslení.</figcaption>
  </figure>
 
-**--- 3, 2, 1... INICIALIZACE ČASOPROSTOROVÉHO SKOKU ---**
+**-- 3, 2, 1... INICIALIZACE ČASOPROSTOROVÉHO SKOKU --**
 
-_- chrčení, výborný koncert Vypsané FiXy ke 25 letům na scéně s mými sourozenci -_ 
+_chrčení, výborný koncert Vypsané FiXy ke 25 letům na scéně s mými sourozenci_ 
 
-**--- přetáčení času o čtrnáct dní dopředu ---**
+**-- přetáčení času o čtrnáct dní dopředu --**
 
-_- blik, cvak, vánoční svátky se všemi rodinami -_
+_blik, cvak, vánoční svátky se všemi rodinami_
 
-**--- otáčení vektoru Boeingu 737-800 o sto osmdesát stupňů směr Riga ---** 
+**-- otáčení vektoru Boeingu 737-800 o sto osmdesát stupňů směr Riga --** 
 
 <figure>  
  <img src="{{ site.baseurl }}/assets/img/DSC_0090.jpg" alt="" class="img-center"> 
-   <figcaption><i>- problikávání scenérií ze společného výletu s nejbližšími kamarády na hanácký Mont Blanc -</i></figcaption>
+   <figcaption><i>problikávání scenérií ze společného výletu s nejbližšími kamarády na hanácký Mont Blanc</i></figcaption>
  </figure>
 
-**--- 40, 41, 42... ČASOPROSTOROVÝ SKOK DOKONČEN! --**
+**-- 40, 41, 42... ČASOPROSTOROVÝ SKOK DOKONČEN! --**
 
 Nad Rigou je toho dne poněkud neklidné počasí, approach je mírně houpavý s průletem děšťosněhem a těsně před dosednutím je to celkem hustá houpačka, ale přistáváme v pořádku na mokré dráze rižského letišťátka (upřímně, turbulence a houpání mě tak nějak baví, protože je to krásný důkaz o tom, kolik toho technika zvládá). Šup na kolej, přebalit, vybalit, umýt a tradá oslavit vstup do nového roku. Místní slovenská složka pro nás tajně nachystala spoustu dobrot, takže díky Kika, Lucia a Šimonko za vaši přípravu i s welcome drinkem. Také doráží druhá, zahraniční, polovina našeho osazenstva, a můžeme konečně koštovat a testovat všechny přinesené domácí alkoholy. Na půlnoc samozřejmě výlet k Daugavě, kam míříme s širokými proudy dalších lidí se stejným nápadem, takže je na břehu celkem narváno, ale na pokoukání ohňostroje a připití si nějaké to místečko nacházíme. Ohňostroj jsem možná čekal trochu větší, ale jsem příjemně překvapen velikostí, protože patřím do #teamdrony či #teamsvetelnashow. Po všech vzájemných přáních do nového roku si všímáme, že Lotyšové tak nějak nepaří. Vlastně se jen pomalu rozchází nejspíš zpátky do svých domovů. Ale přesto si všímáme nedaleko tančících osob mužského pohlaví, ke kterým se prvně přidáváme na dálku, abychom se s nimi následně seznámili. Jeden je Denis a druhý Lukas. Nebo snad Lukáš? Aha, odkud že jste, klucí? Ach ne, Slovensko. No radost, potkáváme krajany, kteří si přiletěli oslavit Silvestra do Rigy a celý let dost nevybíravým způsobem štvali Hanku a letušáky. Ale i s nimi si připíjíme a házíme pár slov o důvodech, proč zrovna Riga. Ale rozhodně to nejsou nejlepší společníci pro další dění, takže se potichu vytrácíme a míříme zpět do hlubin Rigy.
 
