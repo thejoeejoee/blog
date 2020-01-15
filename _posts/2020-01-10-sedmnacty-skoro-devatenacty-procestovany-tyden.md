@@ -81,8 +81,8 @@ _Dopsáno v noci před odjezdem do Petrohradu, města v zemi, na kterou si nejse
 	src="https://www.youtube.com/embed/P-WP6POdTgY"
 	frameborder="0"></iframe>
 	<figcaption>
-        "In this world we're just beginning <br>
-		To understand the miracle of living" - 
+        "In this world we're just beginning
+		to understand the miracle of living" - 
         na tomto světě začínáme rozumnět zázraku života. <br> Utkvěla mi na mysli z rozkoukaného Black Mirror dílu, který se mi vlastně vůbec nelíbil, a ačkoliv má být vyznění této skladby trochu jiné, dá se, myslím, použít i v tomto úzkém kontextu.   
 	</figcaption>
 </figure>   
