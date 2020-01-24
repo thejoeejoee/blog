@@ -59,7 +59,13 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/47jdSVdBm2LyvbBD6">Skulte 3.12.</a> - mikrovesnička nedaleko za Rigou, trocha přírody a chytání letadl zpoza plotu</li>
 
-    <li><a href="https://photos.app.goo.gl/AVBoZfBLsTEoeJjC8">Skulte 3.12.</a> - výlet k protimořcům do hlavního města Švédska, Stockholmu</li>
+    <li><a href="https://photos.app.goo.gl/AVBoZfBLsTEoeJjC8">Skulte 8.12.</a> - výlet k protimořcům do hlavního města Švédska, Stockholmu</li>
+
+    <li><a href="https://photos.app.goo.gl/yEHZbLpNFZzt5ESH8">Ogre 2.1.</a> - vlakem do městečka se zlobrovským názvem, Ogre</li>
+
+    <li><a href="https://photos.app.goo.gl/DwGkd6QMTALz8GRT8">Ziemassvētku egļu ceļš 3.1.</a> - městečko králíků uprostřed Rigy a výstava vánočních stromků</li>
+
+    <li><a href="https://photos.app.goo.gl/fLCT4XttZ5jNgiVe8">Tukums 8.1.</a> - snový výlet do typicky lotyšského města Tukums</li>
 
   </ul>
 </div>
