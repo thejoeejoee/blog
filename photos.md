@@ -53,19 +53,21 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/xzBgAARgXAtuC9uW8">Staro Rīga 16.11.</a> - světelný festival v centru Rigy</li>
 
-    <li><a href="https://photos.app.goo.gl/fypNPuoYmqNknmuu7">Latvijas Republikas proklamēšanas diena 18.11.</a> - den oslav nezávilosti lotyšského státu</li>
+    <li><a href="https://photos.app.goo.gl/fypNPuoYmqNknmuu7">Latvijas Republikas proklamēšanas diena 18.11.</a> - den oslav nezávislosti lotyšského státu</li>
 
     <li><a href="https://photos.app.goo.gl/D7y5vJRrW6ciAWtLA">Lapland 23-29.11.</a> - zmrzlý sever Finska v hledáčku mého fotopřístroje včetně tun sněhu, krásné přírody a usměvavých spoluerasmáků</li>
 
     <li><a href="https://photos.app.goo.gl/47jdSVdBm2LyvbBD6">Skulte 3.12.</a> - mikrovesnička nedaleko za Rigou, trocha přírody a chytání letadl zpoza plotu</li>
 
-    <li><a href="https://photos.app.goo.gl/AVBoZfBLsTEoeJjC8">Skulte 8.12.</a> - výlet k protimořcům do hlavního města Švédska, Stockholmu</li>
+    <li><a href="https://photos.app.goo.gl/AVBoZfBLsTEoeJjC8">Stockholm 8.12.</a> - výlet k protimořcům do hlavního města Švédska, Stockholmu</li>
 
     <li><a href="https://photos.app.goo.gl/yEHZbLpNFZzt5ESH8">Ogre 2.1.</a> - vlakem do městečka se zlobrovským názvem, Ogre</li>
 
     <li><a href="https://photos.app.goo.gl/DwGkd6QMTALz8GRT8">Ziemassvētku egļu ceļš 3.1.</a> - městečko králíků uprostřed Rigy a výstava vánočních stromků</li>
 
     <li><a href="https://photos.app.goo.gl/fLCT4XttZ5jNgiVe8">Tukums 8.1.</a> - snový výlet do typicky lotyšského města Tukums</li>
+
+    <li><a href="https://photos.app.goo.gl/QnEMgJkvcRx9RWzm6">Санкт-Петербу́рг 16.-19.1.</a> - Petrohrad v celé své deštivé kráse i nekráse</li>
 
   </ul>
 </div>
