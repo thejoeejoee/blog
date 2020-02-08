@@ -69,5 +69,21 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/QnEMgJkvcRx9RWzm6">Санкт-Петербу́рг 16.-19.1.</a> - Petrohrad v celé své deštivé kráse i nekráse</li>
 
+    <li><a href="http://bit.ly/speed-friending-2020-esn-riga">ESN Rīga - rychloseznamování 27.1.</a></li>
+
+    <li><a href="http://bit.ly/city-tour-2020-esn-riga">ESN Rīga - prohlídka města 28.1.</a></li>
+
+    <li><a href="http://bit.ly/pub-crawl-2020-esn-riga">ESN Rīga - Pub Crawl 29.1.</a></li>
+
+    <li><a href="http://bit.ly/bowling-2020-esn-riga">ESN Rīga - bowling 30.1.</a></li>
+
+    <li><a href="http://bit.ly/latvian-evening-2020-esn-riga">ESN Rīga - lotyšský večer 31.1.</a></li>
+
+    <li><a href="http://bit.ly/welcome-party-2020-esn-riga">ESN Rīga - Welcome Party 1.2.</a></li>
+
+    <li><a href="https://photos.app.goo.gl/QGAJ4MjkY7JxHU3J7">Imanta 5.2.</a> - modernější rižská čtvrť a návstěva jediné rozhledny v okolí Rigy</li>
+
+    <li><a href="https://photos.app.goo.gl/uWUziXXwJRksDaVJ9">Ķemeri 7.2.</a> - druhá návštěva, tentokrát zimní, tohoto nádherného lotyšského národního parku</li>
+
   </ul>
 </div>
