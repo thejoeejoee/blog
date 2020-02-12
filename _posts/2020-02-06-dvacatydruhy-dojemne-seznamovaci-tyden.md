@@ -39,7 +39,7 @@ Pátek objíždím město, zjišťuji, že bezkontaktní ATM není zase tak bezk
 
 <figure>  
  <img src="{{ site.baseurl }}/assets/img/IMG_4510.JPG" alt="" class="img-center"> 
-   <figcaption>Mix zcela čerstvých obyvatel Rigy, dočasného obyvatele Rigy, průběžných obyvatel Rigy a odjíždějícíc obyvatelky Rigy.</figcaption>
+   <figcaption>Mix zcela čerstvých obyvatel Rigy, dočasného obyvatele Rigy, průběžných obyvatel Rigy a odjíždějící obyvatelky Rigy.</figcaption>
  </figure>
 
 Sobota, další den, kdy trpělivě očekávám mého nového spolubydlícího, který ovšem stále nepřichází. Jinak taková okurková sobota, která je zakončena dalším večerním loučením, tentokrát s převážně slovenskou částí erasmového osazenstva. A tak děláme jedno velké pápá Lucce, Erasmačce z Tallinu, která nám přirostla k srdcím i přesto, že byla na Erasmu úplně někde jinde. Noc pak obohacujeme po delší době opět tancem a také seznámením nových s krtečkem v Tallinas Pagalms, stálým obyvatelem tohoto oblíbeného obýváčkového prostoru. 
