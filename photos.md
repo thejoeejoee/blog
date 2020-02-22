@@ -85,5 +85,15 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/uWUziXXwJRksDaVJ9">Ķemeri 7.2.</a> - druhá návštěva, tentokrát zimní, tohoto nádherného lotyšského národního parku</li>
 
+    <li><a href="https://photos.app.goo.gl/mHgfrJkJemRq49YK7">Rumbula 8.2.</a> - mikrovýlet k židovskému památníku</li>
+
+    <li><a href="https://photos.app.goo.gl/asNnYvTvP7PMzbjw8">Starptautiskais ledus skulptūru festivāls Jelgavā 9.2.</a> - první větší výlet letního semestru na festival mezinárodní ledových soch v nedaleké Jelgavě</li>
+
+    <li><a href="https://photos.app.goo.gl/DhKX43jh5W29o1Ek9">ESN Rīga - valentýnská party 14.2.</a></li>
+
+    <li><a href="https://photos.app.goo.gl/6uj4EX8qvuVCVNTY6">Cēsis 16.2.</a> - historické městečko dvě hodiny od Rigy společně s partou čerstvé krve na letní semestr</li>
+
+    <li><a href="https://photos.app.goo.gl/kgFZZUnEXmZDraye7">ESN Rīga - beerpong 19.2.</a></li>
+
   </ul>
 </div>
