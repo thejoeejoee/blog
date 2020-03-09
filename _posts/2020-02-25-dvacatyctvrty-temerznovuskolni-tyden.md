@@ -67,7 +67,8 @@ _Kolik týdnů mám zpoždění? Něco pod dvanáct? Tak to je pohoda._
 	src="https://www.youtube.com/embed/TvnYmWpD_T8"
 	frameborder="0"></iframe>
 	<figcaption>
-        "If you know what I'm singing about up here <br>
+        "Purple rain, purple rain, <br>
+        If you know what I'm singing about up here <br>
 		 C'mon, raise your hand" <br>
     </figcaption></figure>   
 
