@@ -29,7 +29,7 @@ Středa, královský event ESN celého týdne, sám velký Pub Crawl. Přes den 
 
 <figure>  
  <img src="{{ site.baseurl }}/assets/img/1459f649-4666-49f3-903f-2157ef840af8.jpg" alt="" class="img-center"> 
-   <figcaption>Závěrečná fotka skupiny číslo 5 po úspěšeném Pub Crawlu (a také potvrzení, je objektivy opravdu nemají rády přechody mezi mrznoucí zimou a přetopeným barem). </figcaption>
+   <figcaption>Závěrečná fotka skupiny číslo 5 po úspěšeném Pub Crawlu (a také potvrzení, že objektivy opravdu nemají rády přechody mezi mrznoucí zimou a přetopeným barem). </figcaption>
  </figure>
 
 Čtvrtek, po dopoledních synchronizacích všech novinek a zpráv pomocí videohovorů tak různě po Evropě a domácí správce sáněk mého blesku nás čeká giveaway od odjíždějícího Šimonka, darovanou sůl se nejdříve daří Hance rozsypat hned po překročení jeho prahu, mě se tak naši sůl daří rozsypat mně do postele, takže přemýšlíme, kdo to zprasil více. Na čtvrteční akci razím téměř sám, bowling není úplně nejoblíbenější akcí Slovanů, ale i přesto, že jsem na sé čtvrté ESN akci, už jsem cílem hromady dotazů na otevírací hodiny ESN kanceláře a dalších ESN věcí. Přitom jsem chtěl jen fotit - no nevadí, Alexandrs jakožto kápo, dostává celou skupinu do centra, záhraňáci smaží bowling, s technikou poletuju okolo nich a snažím se v tom šíleně divně barevně nasvíceném prostoru bez stropu vymyslet se světlem něco, aby všichni nevyp li úplně jako mořské příšery postavené na práh bowlingové dráhy.
