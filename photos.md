@@ -95,5 +95,16 @@ title: Fotky
 
     <li><a href="https://photos.app.goo.gl/kgFZZUnEXmZDraye7">ESN Rīga - beerpong 19.2.</a></li>
 
+    <li><a href="https://photos.app.goo.gl/ceynZaGKXdSVq4GcA">ESN Rīga - karaoke 26.2.</a></li>
+
+    <li><a href="https://photos.app.goo.gl/yFcz6DWXX4sHjp94A">Ísland 4.-8.3.</a> - vysněný výlet do země nepopsatelných scenérií, ledu, ohně a jednoho orkánu</li>
+
+    <li><a href="https://photos.app.goo.gl/w6v4mMi57fCDVaUc6">Ķengarags un Zaķusala 17.3.</a> - prosluněná procházka Rigou</li>
+
+
+    <li><a href="https://photos.app.goo.gl/sWTicBRSWmvRVzMN6">Pļavnieki 18.3.</a> - pohled skrze 50 mm na deštivou městskou část šedé Rigy</li>
+
+
+
   </ul>
 </div>
