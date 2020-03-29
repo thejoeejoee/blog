@@ -8,7 +8,7 @@ published: true
 
 ---
 
-<p class="intro"><i><span class="dropcap">V</span> mezičase dlouhých karanténních procházek do lesa, parků a všemožných vzdálených městských částí, nucení se do práce, sledování seriálů a vaření těstovin se mi daří doháhět zpoždění vytvořené starem letního semestru. Další z týdnů explicitně předkoronových, i když se už pohroma z východu blíží.</i></p>
+<p class="intro"><i><span class="dropcap">V</span> mezičase dlouhých karanténních procházek do lesa, parků a všemožných vzdálených městských částí, nucení se do práce, sledování seriálů a vaření těstovin se mi daří doháhět zpoždění vytvořené startem letního semestru. Další z týdnů explicitně předkoronových, i když se už pohroma z východu blíží.</i></p>
 
 <!-- MORE --> 
 
