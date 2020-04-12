@@ -44,7 +44,7 @@ Pátek, rizotový den, dotahuji fotky ze středečního turnaje, společně s Ha
 
 <figure>  
  <img src="{{ site.baseurl }}/assets/img/ca0e8da9-4eb2-4bfd-8997-5cbf8b8dde10.jpg" alt="" class="img-center"> 
-   <figcaption>Místní ESN moc dobré ví, jak si ze sebe udělat srandu.</figcaption>
+   <figcaption>Místní ESN moc dobře ví, jak si ze sebe udělat srandu.</figcaption>
  </figure>
 
 Fakt nevím, co se dělo v sobotu přes den. Podvečer ovšem míříme ve Fantastické čtyřce Hanny, Danny, Joe a Kika do velkého Lida, abychom se pomalu začali společně těšit na chystaný výlet na Island a také jsme velmi nechtěně viděli uprostřed Lida dost nechutné vyprazdňování jednoho z elegantně vypadajících a okolo procházejících pánů. Večer pak rozlučka s exprezidentkou místní ESN sekce, která míří na pracovní stáž do Bruselu. V tu chvíli to navíc vypadá, že je reálné ji během dubna-května letět navštívit, společně s výletem za mým spolužákem Sonym, který je v Belgii na Erasmu - jakápak troufalost, přemýšlet tolik měsíců dopředu. Během večera opakujeme lotyšské hlášky, písničky, naše vědomosti o Evropě a vzpomínáme na zimní semestr a mladší léta nejen během Never Have I Ever. Domů polopěšo a polospěchem, ať se zvládneme před nedělí trošku prospat.
