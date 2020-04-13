@@ -1,10 +1,11 @@
+---
 layout: post
 title:  "Dvacátýosmý rižský týden - islandský"
 date:   2020-04-12
 excerpt_separator: <!-- MORE -->
 published: true
 
-
+---
 
 <p class="intro"><i><span class="dropcap">Č</span>ínská chřipka nás výletově uzemnila, jediné, co nám tedy zbývá, je s láskou a dobrým pocitem vzpomínat zpoza okna na všechny ty výlety, které se nám už podařili a užívat si fotky z nich. A že se jeden takový pěkný podařil, musím říct - Island za pět dní.</i></p>
 
