@@ -59,7 +59,7 @@ Ranní nedělní mužská výhovorka k nutnosti opravě pravého světla vycház
    <figcaption>Nemusí to být samá selfíčka, na závěr úlovek islandského gejzíru Strokkur.</figcaption>
  </figure> 
 
-_Uh, tohle bylo náročné. Ale s velkým nadšením a radostí se vzpomíná na takovéto výlety plné přehlídek nádher přírody a jejích úkazů. Na závěr si dovolím **[doporučit album fotek](https://photos.app.goo.gl/yFcz6DWXX4sHjp94A)** a zkonstatovat, že jsme ujeli 2402 km, tedy zhruba stejně jako je letecká vzdálenost mezi Rigou a Keflavíkem, a že nás to na jednoho stálo okolo šesti a půl tisíce mexických pes._
+_Uh, tohle bylo náročné. Ale s velkým nadšením a radostí se vzpomíná na takovéto výlety plné přehlídek nádher přírody a jejích úkazů. Na závěr si dovolím **[doporučit album fotek](https://photos.app.goo.gl/yFcz6DWXX4sHjp94A)** a zkonstatovat, že jsme ujeli 2402 km, tedy zhruba stejně jako je letecká vzdálenost mezi Rigou a Keflavíkem, a že nás to na jednoho stálo okolo šesti a půl tisíce mexických pes. A mimochodem, žádné další Čechoslováky jsme nepotkali, takže nevím, kdo vyhrál, ale bylo jich celkem šest. A taky jsme na Islandu nenahráli Holubí dům, což je jistě dobrá výmluva proč tam zavítat někdy znovu._
 
 <figure>
 	<iframe width="610" height="360" class="img-center d-block"
