@@ -1,10 +1,12 @@
+---
 layout: post
 title:  "Dvacátýosmý rižský týden - islandský"
 date:   2020-04-12
 excerpt_separator: <!-- MORE -->
 published: true
+---
 
-<p class="intro"><i><span class="dropcap">Č</span>ínská chřipka nás výletově uzemnila, jediné, co nám tedy zbývá, je s láskou a dobrým pocitem vzpomínat zpoza okna na všechny ty výlety, které se nám už podařili a užívat si fotky z nich. A že se jeden takový pěkný podařil, musím říct - Island za pět dní.</i></p>
+<p class="intro"><i><span class="dropcap">Č</span>ínská chřipka nás výletově uzemnila, jediné, co nám tedy zbývá, je s láskou a dobrým pocitem vzpomínat zpoza okna na všechny ty výlety, které se nám už podařily a užívat si fotky z nich. A že se jeden takový pěkný podařil, musím říct - Island za pět dní.</i></p>
 <!-- MORE --> 
 
 Týden začíná závodem letadla a autobusu, teda spíš nemotivací na další dějepisnou frontální výuku v rámci Ekonomiky pobaltí, tak vybírám raději výlet na letiště a vyzvednutí slovenské občanky Kiky s volebním právem. Autobus nakonec jakž takž stíhá a daří se mi i zázrakem připojit, ačkoliv ne zcela rád, na konec dějepisu. Situaci zachraňuje lotyšská hudba a večerní ježek, ve kterém dolaďujeme výlet. 
