@@ -69,7 +69,7 @@ No a neděle, čím jiným bychom mohli zakončit týden než deskovkami. Přes 
     </figcaption>
  </figure>
 
-Je velmi, velmi speciální a osvěžující psát nad těmito týdny s takovým odstupem. Nejvíc baví všechna prohlášení Vlády České republiky, především o tom, jak žádná karanténa nebude, nic se zavírat nebude, roušek máme dost, respirátorů máme dost, všechno zvládáme - no jasně.
+_Je velmi, velmi speciální a osvěžující psát nad těmito týdny s takovým odstupem. Nejvíc baví všechna prohlášení Vlády České republiky, především o tom, jak žádná karanténa nebude, nic se zavírat nebude, roušek máme dost, respirátorů máme dost, všechno zvládáme - no jasně._
 
 <figure>
 	<iframe width="610" height="360" class="img-center d-block"
