@@ -6,7 +6,7 @@ excerpt_separator: <!-- MORE -->
 published: true
 ---
 
-<p class="intro"><i><span class="dropcap">P</span>ojďme zavzpomínat ma třetí březnový týden, kdy to ještě nevypadalo tak špatně, úsměvy nemrzly z čínské chřipky ale z mrazu a můj druhý semestr vypadal jako celkem normálně rozběhnutý.</i></p>
+<p class="intro"><i><span class="dropcap">P</span>ojďme zavzpomínat na třetí březnový týden, kdy to ještě nevypadalo tak špatně, úsměvy nemrzly z čínské chřipky ale z mrazu a můj druhý semestr vypadal jako celkem normálně rozběhnutý.</i></p>
 
 <!-- MORE --> 
 
